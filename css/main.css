@@ -1,0 +1,55 @@
+html, body {
+    height: 100%;
+    Width: 100%;
+    margin: 0px;
+    padding: 0px;
+  }
+
+.navbar{
+    background-color: #131921;
+    display: flex;
+    text-align: center;
+}
+
+.wellcome{
+    color: whitesmoke;
+    text-align: center;
+    font-family: "Rajdhani", sans-serif;
+    padding-left: 33%;
+    padding-top: 10px;
+}
+
+.product-card { 
+    width: 20%;
+    float: left;
+height: auto;  
+  padding: 15px;
+    margin: 10px;
+    margin-left: 25px;
+    text-align: center;
+    background-color: whitesmoke;
+
+}
+img{
+    background-color: gray;
+    border-bottom:  2px solid rgb(95, 95, 95);
+    border-radius :0px 0px 5px 5px ;
+
+}
+
+span{
+    font-size: 17Px;
+}
+button{
+    width: 50%;
+    background: #ffd814;
+    border-color: #ffd814;
+border-radius: 20px;
+font-size: 17px;
+cursor: pointer;
+
+}
+.down{
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
